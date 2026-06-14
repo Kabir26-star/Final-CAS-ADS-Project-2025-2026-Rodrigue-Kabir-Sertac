@@ -1,5 +1,5 @@
 <h1> Final-CAS-ADS-Project</h1>
-<p>**Research main objective**
+<p>Research main objective
 
 This project aims to critically examine the informational requirements for machine learning–based divorce prediction, by evaluating which categories of variables (demographic, socioeconomic, relational, and psychological carry sufficient predictive signal, and identifying the data gaps that limit model performance when only cross-sectional, population-level features are available. 
 
