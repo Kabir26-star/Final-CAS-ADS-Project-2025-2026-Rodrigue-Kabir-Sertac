@@ -13,7 +13,7 @@
 Specifically, it seeks to 
 
 - Evaluate the limitations of standard multidimensional features (demographic, socioeconomic, and self-reported relational metrics) in accurately predicting marital dissolution.
-- Identify which feature domains (if any) contribute the most consistent signal across models, using cross-model feature importance analysis.
+- Identify which feature contribute the most consistent signal across models, using cross-model feature importance analysis.
 - Propose variable types that the divorce prediction literature identifies as truly discriminative.
 
 
