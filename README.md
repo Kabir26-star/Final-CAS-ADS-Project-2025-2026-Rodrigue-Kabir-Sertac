@@ -25,13 +25,4 @@ Specifically, it seeks to
 -	Identification of  the most important predictors of divorce
 
 
-<h1>Machine Learning Results</h1>
-<th>
-  <td> Logisic Regression </td>
-</th>
   
-</h1>
-  
-</p>
-  
-</p>
