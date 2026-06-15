@@ -3,8 +3,8 @@
 
 **About the authors**
 -	Rodrigue Castro Gbedomon 
--	Kabirdev Singh
--	Ramana-Sertac Balbaros
+-	Kabirdev Singh Ramana
+-	Sertac Balbaros
 
 <b> Research objectives </b>
 
