@@ -24,7 +24,4 @@ Specifically, it seeks to
 -	Training and comparison of supervised learning models
 -	Identification of  the most important predictors of divorce
 
-<th>Machine Learning Results</th>
-<td>Logistic Regression</td>
-<td>Accuracy 0.61</td>
-  
+
