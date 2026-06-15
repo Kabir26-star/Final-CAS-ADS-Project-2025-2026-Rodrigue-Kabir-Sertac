@@ -2,7 +2,7 @@
   Predicting divorce using machine learning: a critical examination of variable Informativeness </h1>
 
 **About the authors**
--	Rodrigue Gbedomon 
+-	Rodrigue Castro Gbedomon 
 -	Kabirdev Singh
 -	Ramana-Sertac Balbaros
 
