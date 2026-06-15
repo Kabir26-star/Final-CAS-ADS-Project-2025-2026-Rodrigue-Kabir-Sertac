@@ -1,4 +1,10 @@
-<h1> Final-CAS-ADS-Project Rodrigue Gbedomon-Kabirdev Singh Ramana-Sertac Balbaros</h1>
+<h1> Final-CAS-ADS-Project 2025-2026</h1>
+
+**About the authors**
+-	Rodrigue Gbedomon 
+-	Kabirdev Singh
+-	Ramana-Sertac Balbaros
+
 
 <h1>Predicting divorce using machine learning a critical examination of variable Informativeness</h1>
 
