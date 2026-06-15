@@ -2,9 +2,9 @@
 <b> Research main objective
 </b>
 
-<p>This project aims to critically examine the informational requirements for machine learning–based divorce prediction, by evaluating which categories of variables (demographic, socioeconomic, relational, and psychological carry sufficient predictive signal, and identifying the data gaps that limit model performance when only cross-sectional, population-level features are available. 
+<p>This project aims to critically examine the informational requirements for machine learning–based divorce prediction, by evaluating which categories of variables (demographic, socioeconomic, relational, and psychological carry sufficient predictive signal and identifying the data gaps that limit model performance when only cross-sectional, population-level features are available. 
 
-Specifically, it seeks at 
+Specifically, it seeks to 
 
 - Evaluate the limitations of standard multidimensional features (demographic, socioeconomic, and self-reported relational metrics) in accurately predicting marital dissolution.
 - Identify which feature domains (if any) contribute the most consistent signal across models, using cross-model feature importance analysis.
@@ -25,5 +25,13 @@ Specifically, it seeks at
 -	Identification of  the most important predictors of divorce
 
 
+<h1>Machine Learning Results</h1>
+<th>
+  <td> Logisic Regression </td>
+</th>
+  
+</h1>
+  
+</p>
   
 </p>
