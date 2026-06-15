@@ -1,4 +1,5 @@
-<h1> Final-CAS-ADS-Project 2025-2026: Predicting divorce using machine learning a critical examination of variable Informativeness </h1>
+<h1> Final-CAS-ADS-Project 2025-2026.
+  Predicting divorce using machine learning: a critical examination of variable Informativeness </h1>
 
 **About the authors**
 -	Rodrigue Gbedomon 
